@@ -1,11 +1,9 @@
-# Vishal
+# Website's Admin Panel in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+It is a templete of admin panel with implemented login logic with integrated api hosted at https://api.vishalpandey.xyz/
 
-## Command to enable server side rendering with angular universal
-* first clone this repository
-* then run npm install
-* and then Run
-* ng add @ng-toolkit/universal
-* npm run build:prod
-* npm run server
+https://vishal-pandey.github.io/admin-angular/admin
+This is the live version of the project
+
+Documentation Comming soon ...
+Follow me on github
